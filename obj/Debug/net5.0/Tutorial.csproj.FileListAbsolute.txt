@@ -1,0 +1,16 @@
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\bin\Debug\net5.0\Tutorial.exe
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\bin\Debug\net5.0\Tutorial.deps.json
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\bin\Debug\net5.0\Tutorial.runtimeconfig.json
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\bin\Debug\net5.0\Tutorial.runtimeconfig.dev.json
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\bin\Debug\net5.0\Tutorial.dll
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\bin\Debug\net5.0\ref\Tutorial.dll
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\bin\Debug\net5.0\Tutorial.pdb
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.AssemblyReference.cache
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfo.cs
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.dll
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\ref\Tutorial.dll
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.pdb
+C:\Users\pjsyjl\OneDrive - Aptiv\Documents\VS_Projects\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.genruntimeconfig.cache
